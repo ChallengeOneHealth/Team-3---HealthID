@@ -3,7 +3,7 @@
 ---
 ## Erleben Sie HealthID. live
 
-[HealthID. App] (http://bit.ly/COH-HealthID)
+[HealthID. App](http://bit.ly/COH-HealthID)
 
 ---
 ## Pitchvideo
