@@ -10,12 +10,17 @@ Klick to start!
 ---
 ## Teammitglieder
 
-* **Jan Buss** - *Teamlead*
 * **Benedikt Bertermann** - *UX / UI*
-* **Hendrik Dietze** - *IT-Security*
-
+* **Dr. Tobias Deutsch** - *Medizinischer Berater*
+* **Jan Buss** - *Teamlead*
+* **Hendrik Dietze** - *IT-Security, Datenschutz, IT Compliance, IT Riskmanagement*
+* **Lew Freyholz** - *Servicedesign / UX-Professional* 
 * **Jasper Herzberg** - *Full Stack Developer*
-* **Hendrik Dietze** - *Entertainer*
+* **Thomas Kalippke** - *Backend / Visualisierung*
+* **Mareike Peters** - *Marketing*
+* **Guido Schwartze** - *Lösungsdesign und Stakeholdermanagement*
+
+
 
 ---
 Inhaltsverzeichnis
