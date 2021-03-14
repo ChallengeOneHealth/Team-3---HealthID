@@ -10,8 +10,12 @@ Klick to start!
 ---
 ## Teammitglieder
 
-* **Namen** - *Ideengeber:in*
-* **Namen** - *Designer:in*
+* **Jan Buss** - *Teamlead*
+* **Benedikt Bertermann** - *UX / UI*
+* **Hendrik Dietze** - *IT-Security*
+
+* **Jasper Herzberg** - *Full Stack Developer*
+* **Hendrik Dietze** - *Entertainer*
 
 ---
 ## Problemstellung 
