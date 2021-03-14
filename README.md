@@ -11,8 +11,8 @@ Klick to start!
 ## Teammitglieder
 
 * **Benedikt Bertermann** - *UX / UI*
-* **Dr. Tobias Deutsch** - *Medizinischer Berater*
 * **Jan Buss** - *Teamlead*
+* **Dr. Tobias Deutsch** - *Medizinischer Berater*
 * **Hendrik Dietze** - *IT-Security, Datenschutz, IT Compliance, IT Riskmanagement*
 * **Lew Freyholz** - *Servicedesign / UX-Professional* 
 * **Jasper Herzberg** - *Full Stack Developer*
