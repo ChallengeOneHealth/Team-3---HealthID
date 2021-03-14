@@ -1,11 +1,6 @@
 # HealthID.
 
 ---
-## Erleben Sie die HealthID. App im Film
-
-[HealthID. App Film]()
-
----
 ## Pitchvideo
 Klick to start!
 [![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://www.cortex-ag.com/media/videos/COH-HealthID-Cortex_CGI.mp4)
