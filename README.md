@@ -314,7 +314,7 @@ ebenfalls transaktionsbasiert.
 ---
 ## Business Model Cavas
 
-* *pdf einfügen*
+[BMC HealthID](BMC HealthID V00.03.pdf)
 
 ---
 ## Lizenz
