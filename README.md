@@ -342,7 +342,7 @@ ebenfalls transaktionsbasiert.
 ---
 ## Slack Channel
 
-	tbd
+	https://coh2021.slack.com/archives/C01RA86QVED
 
 ---
 ## Business Model Cavas
