@@ -367,6 +367,6 @@ ebenfalls transaktionsbasiert.
 ---
 ## Was fehlt eurem Projekt noch?
 
-	tbd
+	Geld!
 
 ---
