@@ -18,7 +18,7 @@ Klick to start!
 * **Jasper Herzberg** - *Full Stack Developer*
 * **Thomas Kalippke** - *Backend / Visualisierung*
 * **Mareike Peters** - *Marketing*
-* **Guido Schwartze** - *Lösungsdesign und Stakeholdermanagement*
+* **Guido Schwartze** - *Lösungsdesign / Stakeholdermanagement*
 
 
 
