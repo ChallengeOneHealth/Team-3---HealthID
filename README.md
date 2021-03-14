@@ -8,7 +8,7 @@
 ---
 ## Pitchvideo
 Klick to start!
-[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://www.cortex-ag.com/media/videos/placeholder.mp4)
+[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://www.cortex-ag.com/media/videos/COH-HealthID-Cortex_CGI.mp4)
 
 	tbd: Pitchvideo, ca. 3 min Länge. 
 
