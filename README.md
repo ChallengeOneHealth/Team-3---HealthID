@@ -7,8 +7,6 @@ Klick to start!
 
 [![HealthID.](healtid-logo.png)](https://www.cortex-ag.com/media/videos/COH-HealthID-Cortex_CGI.mp4)
 
-	tbd: Pitchvideo, ca. 3 min Länge. 
-
 ## Erleben Sie HealthID. App live
 
 * Klicken Sie sich durch die App und erleben Sie die einfache Nutzung.
