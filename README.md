@@ -1,6 +1,11 @@
 # Projektname
 
 ---
+## Erleben Sie HealthID. live
+
+[HealthID. App] (http://bit.ly/COH-HealthID)
+
+---
 ## Pitchvideo
 Klick to start!
 [![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://www.cortex-ag.com/media/videos/placeholder.mp4)
@@ -342,7 +347,7 @@ ebenfalls transaktionsbasiert.
 ---
 ## Slack Channel
 
-	https://coh2021.slack.com/archives/C01RA86QVED
+[Slack Kanal zu Team 3]	(https://coh2021.slack.com/archives/C01RA86QVED)
 
 ---
 ## Business Model Cavas
