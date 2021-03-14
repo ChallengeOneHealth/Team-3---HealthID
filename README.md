@@ -12,7 +12,10 @@ Klick to start!
 
 	tbd: Pitchvideo, ca. 3 min Länge. 
 
-## Erleben Sie HealthID. live
+## Erleben Sie HealthID. App live
+
+* Klicken Sie sich durch die App und erleben Sie die einfache Nutzung.
+* Anmerkung: Es sind nicht alle Funktionalitäten aktiv.
 
 [HealthID. App](http://bit.ly/COH-HealthID)
 
