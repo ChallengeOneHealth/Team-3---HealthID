@@ -345,6 +345,11 @@ ebenfalls transaktionsbasiert.
 	tbd
 
 ---
+## Business Model Cavas
+
+* *pdf einfügen*
+
+---
 ## Lizenz
 
 [LICENSE.md](LICENSE.md)
