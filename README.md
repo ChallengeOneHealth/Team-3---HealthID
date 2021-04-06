@@ -5,7 +5,7 @@
 
 Klick to start!
 
-[![HealthID.](healtid-logo.png)](https://youtu.be/voad9gzOU60)
+[![HealthID.](healtid-logo.png)](https://www.cortex-ag.com/media/videos/HealthID-DE-v.1.1.mp4)
 
 ## Erleben Sie HealthID. App live
 
